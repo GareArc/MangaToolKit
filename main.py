@@ -1,4 +1,3 @@
-from ast import Break
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
